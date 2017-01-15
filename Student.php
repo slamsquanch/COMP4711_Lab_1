@@ -14,7 +14,7 @@
 class Student {
     //put your code here
     
-    
+    //Key things we want a student record to have.
     function __construct() {
         $this->surname = '';
         $this->first_name = '';
